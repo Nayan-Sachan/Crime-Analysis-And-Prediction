@@ -1,4 +1,5 @@
 Crime-Analysis-and-Prediction
+
 The increase in crime rates is attributed to the modern technologies and sophisticated methods that enable criminals to carry out illegal activities. To 
 combat this, crime analysis utilizing data mining has become a prevalent practice, involving the application of advanced analytical techniques to examine 
 crime data. The popularity of data mining in crime analysis has grown due to the availability of vast amounts of data and the need for effective crime prevention 
