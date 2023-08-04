@@ -1,0 +1,803 @@
+Region,States/UTs,Population,District,Cases,Type
+Bay of Bengal,A&N Islands,387,Nicobar,31,Dacoity
+Bay of Bengal,A&N Islands,387,North & Middle Andaman,159,Deaths due to negligent driving/act
+Bay of Bengal,A&N Islands,387,South Andaman,556,Dowry Deaths
+Southern,Andhra Pradesh,50654,Anantapur,8376,Grievous Hurt
+Southern,Andhra Pradesh,50654,Chittoor,5374,Hurt
+Southern,Andhra Pradesh,50654,Cuddapah,5803,Incidence of Rash Driving
+Southern,Andhra Pradesh,50654,East Godavari,7630,Kidnapping & Abduction_Total
+Southern,Andhra Pradesh,50654,Guntakal Railway,490,Murder
+Southern,Andhra Pradesh,50654,Guntur,6897,Offences against State
+Southern,Andhra Pradesh,50654,Guntur Urban,5798,Other IPC crimes
+Southern,Andhra Pradesh,50654,Krishna,7078,Rape
+Southern,Andhra Pradesh,50654,Kurnool,8398,Riots
+Southern,Andhra Pradesh,50654,Nellore,8175,Robbery
+Southern,Andhra Pradesh,50654,Prakasham,6367,Theft
+Southern,Andhra Pradesh,50654,Rajahmundry,2430,Dacoity
+Southern,Andhra Pradesh,50654,Srikakulam,4727,Deaths due to negligent driving/act
+Southern,Andhra Pradesh,50654,Tirupathi Urban,3651,Dowry Deaths
+Southern,Andhra Pradesh,50654,Vijayawada City,7876,Grievous Hurt
+Southern,Andhra Pradesh,50654,Vijayawada Railway,1223,Hurt
+Southern,Andhra Pradesh,50654,Visakha Rural,3028,Incidence of Rash Driving
+Southern,Andhra Pradesh,50654,Visakhapatnam,7728,Kidnapping & Abduction_Total
+Southern,Andhra Pradesh,50654,Vizianagaram,5013,Murder
+Southern,Andhra Pradesh,50654,West Godavari,8542,Offences against State
+Northeastern,Arunachal Pradesh,1429,Anjaw,29,Other IPC crimes
+Northeastern,Arunachal Pradesh,1429,Changlang,180,Rape
+Northeastern,Arunachal Pradesh,1429,Crime Branch,4,Riots
+Northeastern,Arunachal Pradesh,1429,Dibang Valley,4,Robbery
+Northeastern,Arunachal Pradesh,1429,Kameng East,148,Theft
+Northeastern,Arunachal Pradesh,1429,Kameng West,140,Dacoity
+Northeastern,Arunachal Pradesh,1429,Kukung Kumey,49,Dacoity
+Northeastern,Arunachal Pradesh,1429,Lohit,280,Deaths due to negligent driving/act
+Northeastern,Arunachal Pradesh,1429,Longding,92,Deaths due to negligent driving/act
+Northeastern,Arunachal Pradesh,1429,Lower Dibang Valley,75,Dowry Deaths
+Northeastern,Arunachal Pradesh,1429,Papum Pare City,661,Dowry Deaths
+Northeastern,Arunachal Pradesh,1429,Papum Pare Rural,96,Grievous Hurt
+Northeastern,Arunachal Pradesh,1429,Siang East,245,Grievous Hurt
+Northeastern,Arunachal Pradesh,1429,Siang Upper,40,Hurt
+Northeastern,Arunachal Pradesh,1429,Siang West,249,Hurt
+Northeastern,Arunachal Pradesh,1429,Subansiri Lower,160,Incidence of Rash Driving
+Northeastern,Arunachal Pradesh,1429,Subansiri Upper,234,Incidence of Rash Driving
+Northeastern,Arunachal Pradesh,1429,Tawang,40,Kidnapping & Abduction_Total
+Northeastern,Arunachal Pradesh,1429,Tirap,117,Kidnapping & Abduction_Total
+Northeastern,Assam,32383,Barpeta,9056,Murder
+Northeastern,Assam,32383,Baska,853,Murder
+Northeastern,Assam,32383,Bongaigaon,1789,Offences against State
+Northeastern,Assam,32383,Cachar,5640,Offences against State
+Northeastern,Assam,32383,Chirang,863,Other IPC crimes
+Northeastern,Assam,32383,Darrang,3901,Other IPC crimes
+Northeastern,Assam,32383,Dhemaji,1068,Rape
+Northeastern,Assam,32383,Dhubri,7153,Rape
+Northeastern,Assam,32383,Dibrugarh,3108,Riots
+Northeastern,Assam,32383,G. R. P.,319,Riots
+Northeastern,Assam,32383,Goalpara,2623,Robbery
+Northeastern,Assam,32383,Golaghat,2932,Robbery
+Northeastern,Assam,32383,Guwahati City,12216,Theft
+Northeastern,Assam,32383,Hailakandi,1940,Theft
+Northeastern,Assam,32383,Jorhat,3732,Dacoity
+Northeastern,Assam,32383,Kamrup,2785,Dacoity
+Northeastern,Assam,32383,Karbi Anglong,960,Dacoity
+Northeastern,Assam,32383,Karimganj,2827,Dacoity
+Northeastern,Assam,32383,Kokrajhar,1419,Deaths due to negligent driving/act
+Northeastern,Assam,32383,Lakhimpur,2872,Deaths due to negligent driving/act
+Northeastern,Assam,32383,Morigaon,2557,Deaths due to negligent driving/act
+Northeastern,Assam,32383,N. C. Hills,299,Deaths due to negligent driving/act
+Northeastern,Assam,32383,Nagaon,8399,Dowry Deaths
+Northeastern,Assam,32383,Nalbari,2122,Dowry Deaths
+Northeastern,Assam,32383,Sibsagar,4236,Dowry Deaths
+Northeastern,Assam,32383,Sonitpur,3906,Dowry Deaths
+Northeastern,Assam,32383,Tinsukia,3309,Grievous Hurt
+Northeastern,Assam,32383,Udalguri,1453,Grievous Hurt
+Eastern,Bihar,110145,Anti Terrorist Squad,0,Grievous Hurt
+Eastern,Bihar,110145,Araria,3898,Grievous Hurt
+Eastern,Bihar,110145,Arwal,991,Hurt
+Eastern,Bihar,110145,Aurangabad,3079,Hurt
+Eastern,Bihar,110145,Bagaha,1860,Hurt
+Eastern,Bihar,110145,Banka,2505,Hurt
+Eastern,Bihar,110145,Begusarai,5196,Incidence of Rash Driving
+Eastern,Bihar,110145,Bettiah,4712,Incidence of Rash Driving
+Eastern,Bihar,110145,Bhabhua,2267,Incidence of Rash Driving
+Eastern,Bihar,110145,Bhagalpur,4763,Incidence of Rash Driving
+Eastern,Bihar,110145,Bhojpur,5488,Kidnapping & Abduction_Total
+Eastern,Bihar,110145,Buxar,3284,Kidnapping & Abduction_Total
+Eastern,Bihar,110145,Darbhanga,5368,Kidnapping & Abduction_Total
+Eastern,Bihar,110145,Economic Offences Unit,11,Kidnapping & Abduction_Total
+Eastern,Bihar,110145,Gaya,7232,Murder
+Eastern,Bihar,110145,Gopalganj,3879,Murder
+Eastern,Bihar,110145,Jamalpur Railway,298,Murder
+Eastern,Bihar,110145,Jamui,1699,Murder
+Eastern,Bihar,110145,Jehanabad,1968,Offences against State
+Eastern,Bihar,110145,Katihar,3415,Offences against State
+Eastern,Bihar,110145,Katihar Railway,313,Offences against State
+Eastern,Bihar,110145,Khagaria,2589,Offences against State
+Eastern,Bihar,110145,Kishanganj,1982,Other IPC crimes
+Eastern,Bihar,110145,Lakhisarai,1728,Other IPC crimes
+Eastern,Bihar,110145,Madhepura,2426,Other IPC crimes
+Eastern,Bihar,110145,Madhubani,5113,Other IPC crimes
+Eastern,Bihar,110145,Motihari,9490,Rape
+Eastern,Bihar,110145,Munger,1778,Rape
+Eastern,Bihar,110145,Muzaffarpur,9373,Rape
+Eastern,Bihar,110145,Muzaffarpur Railway,596,Rape
+Eastern,Bihar,110145,Nalanda,6871,Riots
+Eastern,Bihar,110145,Naugachia,1732,Riots
+Eastern,Bihar,110145,Nawadah,3408,Riots
+Eastern,Bihar,110145,Patna,19804,Riots
+Eastern,Bihar,110145,Patna Railway,1216,Robbery
+Eastern,Bihar,110145,Purnea,5723,Robbery
+Eastern,Bihar,110145,Rohtas,5197,Robbery
+Eastern,Bihar,110145,Saharsa,3189,Robbery
+Eastern,Bihar,110145,Samastipur,5664,Theft
+Eastern,Bihar,110145,Saran,5586,Theft
+Eastern,Bihar,110145,Sheikhpura,1325,Theft
+Eastern,Bihar,110145,Sheohar,778,Theft
+Eastern,Bihar,110145,Sitamarhi,5453,Dacoity
+Eastern,Bihar,110145,Siwan,5003,Dacoity
+Eastern,Bihar,110145,Supaul,3008,Dacoity
+Eastern,Bihar,110145,Vaishali,6337,Dacoity
+Northern,Chandigarh,1104,Chandigarh,3221,Deaths due to negligent driving/act
+Central,Chhattisgarh,26761,Balod,1479,Deaths due to negligent driving/act
+Central,Chhattisgarh,26761,Balodbazar,2578,Deaths due to negligent driving/act
+Central,Chhattisgarh,26761,Balrampur,1333,Deaths due to negligent driving/act
+Central,Chhattisgarh,26761,Bemetra,1645,Dowry Deaths
+Central,Chhattisgarh,26761,Bilaspur,4870,Dowry Deaths
+Central,Chhattisgarh,26761,Bizapur,343,Dowry Deaths
+Central,Chhattisgarh,26761,Dantewara,442,Dowry Deaths
+Central,Chhattisgarh,26761,Dhamtari,1300,Grievous Hurt
+Central,Chhattisgarh,26761,Durg,6677,Grievous Hurt
+Central,Chhattisgarh,26761,G. R. P. Raipur,400,Grievous Hurt
+Central,Chhattisgarh,26761,Gariyaband,948,Grievous Hurt
+Central,Chhattisgarh,26761,Jagdalpur,1580,Hurt
+Central,Chhattisgarh,26761,Janjgir,3401,Hurt
+Central,Chhattisgarh,26761,Jashpur,1225,Hurt
+Central,Chhattisgarh,26761,Kabirdham,1573,Hurt
+Central,Chhattisgarh,26761,Kanker,1253,Incidence of Rash Driving
+Central,Chhattisgarh,26761,Kondagaon,782,Incidence of Rash Driving
+Central,Chhattisgarh,26761,Korba,2572,Incidence of Rash Driving
+Central,Chhattisgarh,26761,Koriya,1707,Incidence of Rash Driving
+Central,Chhattisgarh,26761,Mahasamund,2469,Kidnapping & Abduction_Total
+Central,Chhattisgarh,26761,Mungali,938,Kidnapping & Abduction_Total
+Central,Chhattisgarh,26761,Narayanpur,222,Kidnapping & Abduction_Total
+Central,Chhattisgarh,26761,Raigarh,3074,Kidnapping & Abduction_Total
+Central,Chhattisgarh,26761,Raipur,8306,Murder
+Central,Chhattisgarh,26761,Rajnandgaon,3255,Murder
+Central,Chhattisgarh,26761,Sarguja,1835,Murder
+Central,Chhattisgarh,26761,Sukma,240,Murder
+Central,Chhattisgarh,26761,Surajpur,1753,Offences against State
+Western,D&N Haveli,409,D&N Haveli,277,Offences against State
+Western,Daman & Diu,295,Daman,198,Offences against State
+Western,Daman & Diu,295,Diu,35,Offences against State
+Northern,Delhi UT,17921,Central,8932,Other IPC crimes
+Northern,Delhi UT,17921,Crime Branch,52,Other IPC crimes
+Northern,Delhi UT,17921,East,18642,Other IPC crimes
+Northern,Delhi UT,17921,EOW,85,Other IPC crimes
+Northern,Delhi UT,17921,IGI Airport,453,Rape
+Northern,Delhi UT,17921,Metro,2309,Rape
+Northern,Delhi UT,17921,New Delhi,2421,Rape
+Northern,Delhi UT,17921,North,8201,Rape
+Northern,Delhi UT,17921,North-East,16904,Riots
+Northern,Delhi UT,17921,North-West,13251,Riots
+Northern,Delhi UT,17921,Outer,20320,Riots
+Northern,Delhi UT,17921,RAILWAY,1816,Riots
+Northern,Delhi UT,17921,South,17371,Robbery
+Northern,Delhi UT,17921,South-East,14914,Robbery
+Northern,Delhi UT,17921,South-West,11320,Robbery
+Northern,Delhi UT,17921,Spl Cell,14,Robbery
+Northern,Delhi UT,17921,SPUWAC,161,Theft
+Northern,Delhi UT,17921,Vigilance,0,Theft
+Northern,Delhi UT,17921,West,18488,Theft
+Western,Goa,1491,C. I. D.,112,Theft
+Western,Goa,1491,North Goa,2805,Dacoity
+Western,Goa,1491,South Goa,1549,Dacoity
+Western,Gujarat,63271,Ahmedabad City,15286,Dacoity
+Western,Gujarat,63271,Ahmedabad Rural,4266,Dacoity
+Western,Gujarat,63271,Amreli,1818,Deaths due to negligent driving/act
+Western,Gujarat,63271,Anand,3415,Deaths due to negligent driving/act
+Western,Gujarat,63271,Arvalli,3841,Deaths due to negligent driving/act
+Western,Gujarat,63271,Banaskantha,4464,Deaths due to negligent driving/act
+Western,Gujarat,63271,Bharuch,2981,Dowry Deaths
+Western,Gujarat,63271,Bhavnagar,3589,Dowry Deaths
+Western,Gujarat,63271,Botad,783,Dowry Deaths
+Western,Gujarat,63271,C. I. D. Crime,8,Dowry Deaths
+Western,Gujarat,63271,Chhotaudepur,1144,Grievous Hurt
+Western,Gujarat,63271,Dahod,2594,Grievous Hurt
+Western,Gujarat,63271,Dang,283,Grievous Hurt
+Western,Gujarat,63271,Devbhumi Dwarka,1106,Grievous Hurt
+Western,Gujarat,63271,Gandhinagar,7451,Hurt
+Western,Gujarat,63271,Gir Somnath,1405,Hurt
+Western,Gujarat,63271,Jamnagar,3752,Hurt
+Western,Gujarat,63271,Junagadh,2497,Hurt
+Western,Gujarat,63271,Kachchh East(G),3349,Incidence of Rash Driving
+Western,Gujarat,63271,Kachchh West(B),2269,Incidence of Rash Driving
+Western,Gujarat,63271,Kheda,3614,Incidence of Rash Driving
+Western,Gujarat,63271,Mahisagar,1040,Incidence of Rash Driving
+Western,Gujarat,63271,Mehsana,6587,Kidnapping & Abduction_Total
+Western,Gujarat,63271,Morbi,2332,Kidnapping & Abduction_Total
+Western,Gujarat,63271,Narmada,664,Kidnapping & Abduction_Total
+Western,Gujarat,63271,Navsari,1730,Kidnapping & Abduction_Total
+Western,Gujarat,63271,Panchmahal,2634,Murder
+Western,Gujarat,63271,Patan,2117,Murder
+Western,Gujarat,63271,Porbandar,913,Murder
+Western,Gujarat,63271,Rajkot City,3516,Murder
+Western,Gujarat,63271,Rajkot Rural,2891,Offences against State
+Western,Gujarat,63271,Sabarkantha,5647,Offences against State
+Western,Gujarat,63271,Surat City,4397,Offences against State
+Western,Gujarat,63271,Surat Rural,3810,Offences against State
+Western,Gujarat,63271,Surendranagar,2476,Other IPC crimes
+Western,Gujarat,63271,Tapi,986,Other IPC crimes
+Western,Gujarat,63271,Vadodara City,12651,Other IPC crimes
+Western,Gujarat,63271,Vadodara Rural,2896,Other IPC crimes
+Western,Gujarat,63271,Valsad,3072,Rape
+Western,Gujarat,63271,W.Rly  Ahmedabad,454,Rape
+Western,Gujarat,63271,W.Rly Vadodara,657,Rape
+Northern,Haryana,26614,Ambala (Rural),1098,Rape
+Northern,Haryana,26614,Ambala (Urban),1977,Riots
+Northern,Haryana,26614,Bhiwani,4604,Riots
+Northern,Haryana,26614,Faridabad,6000,Riots
+Northern,Haryana,26614,Fatehabad,2431,Riots
+Northern,Haryana,26614,G. R. P.,1139,Robbery
+Northern,Haryana,26614,Gurgaon,11444,Robbery
+Northern,Haryana,26614,Hissar,5608,Robbery
+Northern,Haryana,26614,Irrigation & Power,192,Robbery
+Northern,Haryana,26614,Jhajjar,2100,Theft
+Northern,Haryana,26614,Jind,2892,Theft
+Northern,Haryana,26614,Kaithal,1922,Theft
+Northern,Haryana,26614,Karnal,4047,Theft
+Northern,Haryana,26614,Kurukshetra,2581,Dacoity
+Northern,Haryana,26614,Mahendergarh,2262,Dacoity
+Northern,Haryana,26614,Mewat,2414,Dacoity
+Northern,Haryana,26614,Palwal,3247,Dacoity
+Northern,Haryana,26614,Panchkula,1594,Dacoity
+Northern,Haryana,26614,Panipat,4654,Dacoity
+Northern,Haryana,26614,Rewari,2781,Dacoity
+Northern,Haryana,26614,Rohtak,3820,Dacoity
+Northern,Haryana,26614,Sirsa,3482,Dacoity
+Northern,Haryana,26614,Sonipat,4311,Deaths due to negligent driving/act
+Northern,Haryana,26614,Yamunanagar,3347,Deaths due to negligent driving/act
+Northern,Himachal Pradesh,7041,Baddi,651,Deaths due to negligent driving/act
+Northern,Himachal Pradesh,7041,Bilaspur,1185,Deaths due to negligent driving/act
+Northern,Himachal Pradesh,7041,C. I. D.,4,Deaths due to negligent driving/act
+Northern,Himachal Pradesh,7041,Chamba,761,Deaths due to negligent driving/act
+Northern,Himachal Pradesh,7041,G. R. P.,9,Deaths due to negligent driving/act
+Northern,Himachal Pradesh,7041,Hamirpur,845,Deaths due to negligent driving/act
+Northern,Himachal Pradesh,7041,Kangra,2698,Deaths due to negligent driving/act
+Northern,Himachal Pradesh,7041,Kinnaur,211,Dowry Deaths
+Northern,Himachal Pradesh,7041,Kullu,914,Dowry Deaths
+Northern,Himachal Pradesh,7041,Lahaul & Spiti,84,Dowry Deaths
+Northern,Himachal Pradesh,7041,Mandi,1939,Dowry Deaths
+Northern,Himachal Pradesh,7041,Shimla,1957,Dowry Deaths
+Northern,Himachal Pradesh,7041,Sirmaur,872,Dowry Deaths
+Northern,Himachal Pradesh,7041,Solan,947,Dowry Deaths
+Northern,Himachal Pradesh,7041,Una,1083,Dowry Deaths
+Northern,Jammu & Kashmir,12927,Anantnag,1307,Dowry Deaths
+Northern,Jammu & Kashmir,12927,Awantipora,389,Grievous Hurt
+Northern,Jammu & Kashmir,12927,Bandipora,618,Grievous Hurt
+Northern,Jammu & Kashmir,12927,Baramulla,1110,Grievous Hurt
+Northern,Jammu & Kashmir,12927,Budgam,1026,Grievous Hurt
+Northern,Jammu & Kashmir,12927,Crime Jammu,14,Grievous Hurt
+Northern,Jammu & Kashmir,12927,Crime Srinagar,43,Grievous Hurt
+Northern,Jammu & Kashmir,12927,Doda,667,Grievous Hurt
+Northern,Jammu & Kashmir,12927,Ganderbal,473,Grievous Hurt
+Northern,Jammu & Kashmir,12927,Handwara,562,Grievous Hurt
+Northern,Jammu & Kashmir,12927,Jammu,4238,Hurt
+Northern,Jammu & Kashmir,12927,Kargil,105,Hurt
+Northern,Jammu & Kashmir,12927,Kathua,1289,Hurt
+Northern,Jammu & Kashmir,12927,Kishtwar,388,Hurt
+Northern,Jammu & Kashmir,12927,Kulgam,856,Hurt
+Northern,Jammu & Kashmir,12927,Kupwara,710,Hurt
+Northern,Jammu & Kashmir,12927,Leh,166,Hurt
+Northern,Jammu & Kashmir,12927,Poonch,842,Hurt
+Northern,Jammu & Kashmir,12927,Pulwama,354,Hurt
+Northern,Jammu & Kashmir,12927,Railways Jammu,16,Incidence of Rash Driving
+Northern,Jammu & Kashmir,12927,Railways Kashmir,13,Incidence of Rash Driving
+Northern,Jammu & Kashmir,12927,Railways Katra,6,Incidence of Rash Driving
+Northern,Jammu & Kashmir,12927,Rajouri,1751,Incidence of Rash Driving
+Northern,Jammu & Kashmir,12927,Ramban,674,Incidence of Rash Driving
+Northern,Jammu & Kashmir,12927,Reasi,753,Incidence of Rash Driving
+Northern,Jammu & Kashmir,12927,Samba,653,Incidence of Rash Driving
+Northern,Jammu & Kashmir,12927,Shopian,501,Incidence of Rash Driving
+Northern,Jammu & Kashmir,12927,Sopore,634,Incidence of Rash Driving
+Northern,Jammu & Kashmir,12927,Srinagar,2533,Kidnapping & Abduction_Total
+Northern,Jammu & Kashmir,12927,Udhampur,1157,Kidnapping & Abduction_Total
+Eastern,Jharkhand,34675,Bokaro,3145,Kidnapping & Abduction_Total
+Eastern,Jharkhand,34675,Chaibasa,954,Kidnapping & Abduction_Total
+Eastern,Jharkhand,34675,Chatra,1284,Kidnapping & Abduction_Total
+Eastern,Jharkhand,34675,Deoghar,2300,Kidnapping & Abduction_Total
+Eastern,Jharkhand,34675,Dhanbad,4929,Kidnapping & Abduction_Total
+Eastern,Jharkhand,34675,Dhanbad Railway,365,Kidnapping & Abduction_Total
+Eastern,Jharkhand,34675,Dumka,1592,Kidnapping & Abduction_Total
+Eastern,Jharkhand,34675,Garhwa,2582,Murder
+Eastern,Jharkhand,34675,Giridih,3491,Murder
+Eastern,Jharkhand,34675,Godda,1710,Murder
+Eastern,Jharkhand,34675,Gumla,1200,Murder
+Eastern,Jharkhand,34675,Hazaribagh,3039,Murder
+Eastern,Jharkhand,34675,Jamshedpur,3985,Murder
+Eastern,Jharkhand,34675,Jamshedpur Railway,188,Murder
+Eastern,Jharkhand,34675,Jamtara,1032,Murder
+Eastern,Jharkhand,34675,Khunti,419,Murder
+Eastern,Jharkhand,34675,Koderma,1344,Offences against State
+Eastern,Jharkhand,34675,Latehar,859,Offences against State
+Eastern,Jharkhand,34675,Lohardagga,536,Offences against State
+Eastern,Jharkhand,34675,Pakur,839,Offences against State
+Eastern,Jharkhand,34675,Palamu,2556,Offences against State
+Eastern,Jharkhand,34675,Ramgarh,1488,Offences against State
+Eastern,Jharkhand,34675,Ranchi,2447,Offences against State
+Eastern,Jharkhand,34675,Sahebganj,1522,Offences against State
+Eastern,Jharkhand,34675,Saraikela,1108,Offences against State
+Eastern,Jharkhand,34675,Simdega,421,Other IPC crimes
+Southern,Karnataka,62975,Bagalkot,2131,Other IPC crimes
+Southern,Karnataka,62975,Ballari,3304,Other IPC crimes
+Southern,Karnataka,62975,Belagavi City,2396,Other IPC crimes
+Southern,Karnataka,62975,Belagavi District,4851,Other IPC crimes
+Southern,Karnataka,62975,Bengaluru City,31892,Other IPC crimes
+Southern,Karnataka,62975,Bengaluru District,5567,Other IPC crimes
+Southern,Karnataka,62975,Bidar,4333,Other IPC crimes
+Southern,Karnataka,62975,Chamarajnagar,1607,Other IPC crimes
+Southern,Karnataka,62975,Chikkaballapura,2405,Rape
+Southern,Karnataka,62975,Chikkamagaluru,2878,Rape
+Southern,Karnataka,62975,Chitradurga,3981,Rape
+Southern,Karnataka,62975,Dakshina Kannada,2087,Rape
+Southern,Karnataka,62975,Davanagere,3635,Rape
+Southern,Karnataka,62975,Dharwad,1219,Rape
+Southern,Karnataka,62975,Gadag,1109,Rape
+Southern,Karnataka,62975,Hassan,5182,Rape
+Southern,Karnataka,62975,Haveri,2201,Rape
+Southern,Karnataka,62975,Hubballi Dharwad City,1936,Riots
+Southern,Karnataka,62975,K.G.F.,777,Riots
+Southern,Karnataka,62975,K.Railways,948,Riots
+Southern,Karnataka,62975,Kalaburgi,4448,Riots
+Southern,Karnataka,62975,Kodagu,1824,Riots
+Southern,Karnataka,62975,Kolar,2188,Riots
+Southern,Karnataka,62975,Koppal,1883,Riots
+Southern,Karnataka,62975,Mandya,4984,Riots
+Southern,Karnataka,62975,Mangaluru City,3039,Riots
+Southern,Karnataka,62975,Mysuru City,2766,Robbery
+Southern,Karnataka,62975,Mysuru District,4118,Robbery
+Southern,Karnataka,62975,Raichur,3128,Robbery
+Southern,Karnataka,62975,Ramanagar,4249,Robbery
+Southern,Karnataka,62975,Shimoga,6043,Robbery
+Southern,Karnataka,62975,Tumakuru,4523,Robbery
+Southern,Karnataka,62975,Udupi,2496,Robbery
+Southern,Karnataka,62975,Uttara Kannada,2783,Robbery
+Southern,Karnataka,62975,Vijayapura,2931,Robbery
+Southern,Karnataka,62975,Yadgiri,1496,Theft
+Southern,Kerala,34109,Alapuzha,11033,Theft
+Southern,Kerala,34109,Crime Branch,185,Theft
+Southern,Kerala,34109,Ernakulam Commr.,17088,Theft
+Southern,Kerala,34109,Ernakulam Rural,20185,Theft
+Southern,Kerala,34109,Idukki,5264,Theft
+Southern,Kerala,34109,Kannur,6716,Theft
+Southern,Kerala,34109,Kasargod,5016,Theft
+Southern,Kerala,34109,Kollam Commr.,9314,Theft
+Southern,Kerala,34109,Kollam Rural,7910,Dacoity
+Southern,Kerala,34109,Kottayam,17769,Dacoity
+Southern,Kerala,34109,Kozhikode Commr.,4665,Dacoity
+Southern,Kerala,34109,Kozhikode Rural,5391,Dacoity
+Southern,Kerala,34109,Malappuram,18057,Dacoity
+Southern,Kerala,34109,Palakkad,14780,Dacoity
+Southern,Kerala,34109,Pathanamthitta,8533,Deaths due to negligent driving/act
+Southern,Kerala,34109,Railways,508,Deaths due to negligent driving/act
+Southern,Kerala,34109,Thrissur Commr.,6548,Deaths due to negligent driving/act
+Southern,Kerala,34109,Thrissur Rural,20117,Deaths due to negligent driving/act
+Southern,Kerala,34109,Trivandrum Commr.,12504,Deaths due to negligent driving/act
+Southern,Kerala,34109,Trivandrum Rural,12024,Deaths due to negligent driving/act
+Southern,Kerala,34109,Wayanadu,3182,Dowry Deaths
+Arabian Sea,Lakshadweep,66,Lakshadweep,81,Dowry Deaths
+Central,Madhya Pradesh,76334,Agar,1652,Dowry Deaths
+Central,Madhya Pradesh,76334,Alirajpur,1161,Dowry Deaths
+Central,Madhya Pradesh,76334,Anuppur,2666,Dowry Deaths
+Central,Madhya Pradesh,76334,Ashok Nagar,3366,Dowry Deaths
+Central,Madhya Pradesh,76334,Balaghat,3507,Grievous Hurt
+Central,Madhya Pradesh,76334,Barwani,2857,Grievous Hurt
+Central,Madhya Pradesh,76334,Betul,6822,Grievous Hurt
+Central,Madhya Pradesh,76334,Bhind,4870,Grievous Hurt
+Central,Madhya Pradesh,76334,Bhopal,16094,Grievous Hurt
+Central,Madhya Pradesh,76334,Bhopal Railway,2067,Grievous Hurt
+Central,Madhya Pradesh,76334,Burhanpur,1958,Hurt
+Central,Madhya Pradesh,76334,Chhatarpur,4463,Hurt
+Central,Madhya Pradesh,76334,Chhindwara,6149,Hurt
+Central,Madhya Pradesh,76334,Cyber Cell,0,Hurt
+Central,Madhya Pradesh,76334,Damoh,2702,Hurt
+Central,Madhya Pradesh,76334,Datia,2783,Hurt
+Central,Madhya Pradesh,76334,Dewas,7426,Incidence of Rash Driving
+Central,Madhya Pradesh,76334,Dhar,7479,Incidence of Rash Driving
+Central,Madhya Pradesh,76334,Dindori,3851,Incidence of Rash Driving
+Central,Madhya Pradesh,76334,Guna,4539,Incidence of Rash Driving
+Central,Madhya Pradesh,76334,Gwalior,12958,Incidence of Rash Driving
+Central,Madhya Pradesh,76334,Harda,2016,Incidence of Rash Driving
+Central,Madhya Pradesh,76334,Hoshangabad,4870,Kidnapping & Abduction_Total
+Central,Madhya Pradesh,76334,Indore,23992,Kidnapping & Abduction_Total
+Central,Madhya Pradesh,76334,Indore Railway,552,Kidnapping & Abduction_Total
+Central,Madhya Pradesh,76334,Jabalpur,12918,Kidnapping & Abduction_Total
+Central,Madhya Pradesh,76334,Jabalpur Railway,1159,Kidnapping & Abduction_Total
+Central,Madhya Pradesh,76334,Jhabua,2990,Kidnapping & Abduction_Total
+Central,Madhya Pradesh,76334,Katni,3670,Murder
+Central,Madhya Pradesh,76334,Khandwa,4011,Murder
+Central,Madhya Pradesh,76334,Khargone,4533,Murder
+Central,Madhya Pradesh,76334,Mandla,2220,Murder
+Central,Madhya Pradesh,76334,Mandsaur,5565,Murder
+Central,Madhya Pradesh,76334,Morena,5944,Murder
+Central,Madhya Pradesh,76334,Narsinghpur,3777,Offences against State
+Central,Madhya Pradesh,76334,Neemuch,2986,Offences against State
+Central,Madhya Pradesh,76334,Panna,2063,Offences against State
+Central,Madhya Pradesh,76334,Raisen,5204,Offences against State
+Central,Madhya Pradesh,76334,Rajgarh,5529,Offences against State
+Central,Madhya Pradesh,76334,Ratlam,4560,Offences against State
+Central,Madhya Pradesh,76334,Rewa,6678,Other IPC crimes
+Central,Madhya Pradesh,76334,Sagar,7674,Other IPC crimes
+Central,Madhya Pradesh,76334,Satna,7539,Other IPC crimes
+Central,Madhya Pradesh,76334,Sehore,5006,Other IPC crimes
+Central,Madhya Pradesh,76334,Seoni,3484,Other IPC crimes
+Central,Madhya Pradesh,76334,Shahdol,5240,Other IPC crimes
+Central,Madhya Pradesh,76334,Shajapur,3754,Rape
+Central,Madhya Pradesh,76334,Sheopur,1578,Rape
+Central,Madhya Pradesh,76334,Shivpuri,5836,Rape
+Central,Madhya Pradesh,76334,Sidhi,3576,Rape
+Central,Madhya Pradesh,76334,Singrauli,3349,Rape
+Central,Madhya Pradesh,76334,Tikamgarh,3458,Rape
+Central,Madhya Pradesh,76334,Ujjain,9141,Riots
+Central,Madhya Pradesh,76334,Umaria,2172,Riots
+Central,Madhya Pradesh,76334,Vidisha,6009,Riots
+Western,Maharashtra,116186,Ahmednagar,6957,Riots
+Western,Maharashtra,116186,Akola,4433,Riots
+Western,Maharashtra,116186,Amravati Commr.,3338,Riots
+Western,Maharashtra,116186,Amravati Rural,6948,Robbery
+Western,Maharashtra,116186,Aurangabad Commr.,4821,Robbery
+Western,Maharashtra,116186,Aurangabad Rural,4237,Robbery
+Western,Maharashtra,116186,Beed,4864,Robbery
+Western,Maharashtra,116186,Bhandara,2003,Robbery
+Western,Maharashtra,116186,Buldhana,4453,Robbery
+Western,Maharashtra,116186,Chandrapur,4441,Theft
+Western,Maharashtra,116186,Dhule,2818,Theft
+Western,Maharashtra,116186,Gadchiroli,875,Theft
+Western,Maharashtra,116186,Gondia,1836,Theft
+Western,Maharashtra,116186,Hingoli,1761,Theft
+Western,Maharashtra,116186,Jalgaon,6531,Theft
+Western,Maharashtra,116186,Jalna,3372,Dacoity
+Western,Maharashtra,116186,Kolhapur,4942,Dacoity
+Western,Maharashtra,116186,Latur,4070,Dacoity
+Western,Maharashtra,116186,Mumbai Commr.,40361,Dacoity
+Western,Maharashtra,116186,Mumbai Railway,3141,Dacoity
+Western,Maharashtra,116186,Nagpur Commr.,10359,Deaths due to negligent driving/act
+Western,Maharashtra,116186,Nagpur Railway,1768,Deaths due to negligent driving/act
+Western,Maharashtra,116186,Nagpur Rural,4564,Deaths due to negligent driving/act
+Western,Maharashtra,116186,Nanded,4600,Deaths due to negligent driving/act
+Western,Maharashtra,116186,Nandurbar,1425,Deaths due to negligent driving/act
+Western,Maharashtra,116186,Nasik Commr.,3883,Dowry Deaths
+Western,Maharashtra,116186,Nasik Rural,6832,Dowry Deaths
+Western,Maharashtra,116186,Navi Mumbai,5903,Dowry Deaths
+Western,Maharashtra,116186,Osmanabad,2825,Dowry Deaths
+Western,Maharashtra,116186,Palghar,4692,Dowry Deaths
+Western,Maharashtra,116186,Parbhani,3606,Grievous Hurt
+Western,Maharashtra,116186,Pune Commr.,14468,Grievous Hurt
+Western,Maharashtra,116186,Pune Railway,676,Grievous Hurt
+Western,Maharashtra,116186,Pune Rural,10334,Grievous Hurt
+Western,Maharashtra,116186,Raigad,2601,Grievous Hurt
+Western,Maharashtra,116186,Ratnagiri,1568,Hurt
+Western,Maharashtra,116186,Sangli,5171,Hurt
+Western,Maharashtra,116186,Satara,6062,Hurt
+Western,Maharashtra,116186,Sindhudurg,789,Hurt
+Western,Maharashtra,116186,Solapur Commr.,2186,Hurt
+Western,Maharashtra,116186,Solapur Rural,6235,Incidence of Rash Driving
+Western,Maharashtra,116186,Thane Commr.,13227,Incidence of Rash Driving
+Western,Maharashtra,116186,Thane Rural,3641,Incidence of Rash Driving
+Western,Maharashtra,116186,Wardha,3687,Incidence of Rash Driving
+Western,Maharashtra,116186,Washim,2579,Incidence of Rash Driving
+Western,Maharashtra,116186,Yavatmal,9951,Kidnapping & Abduction_Total
+Northeastern,Manipur,2949,Bishnupur,307,Kidnapping & Abduction_Total
+Northeastern,Manipur,2949,C. I. D.,0,Kidnapping & Abduction_Total
+Northeastern,Manipur,2949,Chandel,70,Kidnapping & Abduction_Total
+Northeastern,Manipur,2949,Churachandpur,130,Kidnapping & Abduction_Total
+Northeastern,Manipur,2949,Imphal East,645,Murder
+Northeastern,Manipur,2949,Imphal West,1417,Murder
+Northeastern,Manipur,2949,Senapati,121,Murder
+Northeastern,Manipur,2949,Tamenglong,125,Murder
+Northeastern,Manipur,2949,Thoubal,768,Murder
+Northeastern,Manipur,2949,Ukhrul,58,Offences against State
+Northeastern,Meghalaya,3064,Garo Hills East,159,Offences against State
+Northeastern,Meghalaya,3064,Garo Hills North,165,Offences against State
+Northeastern,Meghalaya,3064,Garo Hills South,167,Offences against State
+Northeastern,Meghalaya,3064,Garo Hills South West,65,Offences against State
+Northeastern,Meghalaya,3064,Garo Hills West,532,Other IPC crimes
+Northeastern,Meghalaya,3064,Jaintia Hills East,281,Other IPC crimes
+Northeastern,Meghalaya,3064,Jaintia Hills West,292,Other IPC crimes
+Northeastern,Meghalaya,3064,Khasi Hills East,1327,Other IPC crimes
+Northeastern,Meghalaya,3064,Khasi Hills South West,60,Other IPC crimes
+Northeastern,Meghalaya,3064,Khasi Hills West,271,Rape
+Northeastern,Meghalaya,3064,Ri-Bhoi,360,Rape
+Northeastern,Mizoram,1133,Aizawl,1059,Rape
+Northeastern,Mizoram,1133,Champhai,238,Rape
+Northeastern,Mizoram,1133,Kolasib,263,Rape
+Northeastern,Mizoram,1133,Lawngtlai,98,Riots
+Northeastern,Mizoram,1133,Lunglei,175,Riots
+Northeastern,Mizoram,1133,Mamit,116,Riots
+Northeastern,Mizoram,1133,Saiha,73,Riots
+Northeastern,Mizoram,1133,Serchhip,98,Riots
+Northeastern,Mizoram,1133,Spl Traffic,20,Robbery
+Northeastern,Nagaland,2043,Dimapur,512,Robbery
+Northeastern,Nagaland,2043,Kiphire,13,Robbery
+Northeastern,Nagaland,2043,Kohima,199,Robbery
+Northeastern,Nagaland,2043,Longleng,15,Robbery
+Northeastern,Nagaland,2043,Mokokchung,67,Theft
+Northeastern,Nagaland,2043,Mon,39,Theft
+Northeastern,Nagaland,2043,Peren,19,Theft
+Northeastern,Nagaland,2043,Phek,75,Theft
+Northeastern,Nagaland,2043,Tuensang,48,Theft
+Northeastern,Nagaland,2043,Wokha,90,Dacoity
+Northeastern,Nagaland,2043,Zunheboto,80,Deaths due to negligent driving/act
+Eastern,Odisha,42667,Angul,2950,Dowry Deaths
+Eastern,Odisha,42667,Balasore,4305,Grievous Hurt
+Eastern,Odisha,42667,Baragarh,1817,Hurt
+Eastern,Odisha,42667,Berhampur,1709,Incidence of Rash Driving
+Eastern,Odisha,42667,Bhadrak,2807,Kidnapping & Abduction_Total
+Eastern,Odisha,42667,Bolangir,2379,Murder
+Eastern,Odisha,42667,Boudh,596,Offences against State
+Eastern,Odisha,42667,Cuttack,2594,Other IPC crimes
+Eastern,Odisha,42667,DCP BBSR,5478,Rape
+Eastern,Odisha,42667,DCP CTC,2920,Riots
+Eastern,Odisha,42667,Deogarh,901,Robbery
+Eastern,Odisha,42667,Dhenkanal,2000,Theft
+Eastern,Odisha,42667,Gajapati,460,Dacoity
+Eastern,Odisha,42667,Ganjam,2580,Deaths due to negligent driving/act
+Eastern,Odisha,42667,Jagatsinghpur,2345,Dowry Deaths
+Eastern,Odisha,42667,Jajpur,3174,Grievous Hurt
+Eastern,Odisha,42667,Jharsuguda,1431,Hurt
+Eastern,Odisha,42667,Kalahandi,2039,Incidence of Rash Driving
+Eastern,Odisha,42667,Kandhamal,1089,Kidnapping & Abduction_Total
+Eastern,Odisha,42667,Kendrapara,2244,Murder
+Eastern,Odisha,42667,Keonjhar,2571,Offences against State
+Eastern,Odisha,42667,Khurda,2291,Other IPC crimes
+Eastern,Odisha,42667,Koraput,1357,Rape
+Eastern,Odisha,42667,Malkangiri,420,Riots
+Eastern,Odisha,42667,Mayurbhanj,2793,Robbery
+Eastern,Odisha,42667,Nabarangpur,1695,Theft
+Eastern,Odisha,42667,Nayagarh,1487,Dacoity
+Eastern,Odisha,42667,Nuapada,1175,Dacoity
+Eastern,Odisha,42667,Puri,4317,Deaths due to negligent driving/act
+Eastern,Odisha,42667,Rayagada,1199,Deaths due to negligent driving/act
+Eastern,Odisha,42667,Rourkela,2670,Dowry Deaths
+Eastern,Odisha,42667,Sambalpur,3391,Dowry Deaths
+Eastern,Odisha,42667,Sonepur,724,Grievous Hurt
+Eastern,Odisha,42667,SRP (Cuttack),546,Grievous Hurt
+Eastern,Odisha,42667,SRP (Rourkela),460,Hurt
+Eastern,Odisha,42667,Sundargarh,1655,Hurt
+Southern,Puducherry,1340,Karaikal,671,Incidence of Rash Driving
+Southern,Puducherry,1340,Puducherry,2913,Incidence of Rash Driving
+Northern,Punjab,28581,Amritsar Rural,1396,Kidnapping & Abduction_Total
+Northern,Punjab,28581,Barnala,791,Kidnapping & Abduction_Total
+Northern,Punjab,28581,Batala,865,Murder
+Northern,Punjab,28581,Bathinda,2117,Murder
+Northern,Punjab,28581,CP Amritsar,1998,Offences against State
+Northern,Punjab,28581,CP Jalandhar,2020,Offences against State
+Northern,Punjab,28581,CP Ludhiana,3546,Other IPC crimes
+Northern,Punjab,28581,Faridkot,673,Other IPC crimes
+Northern,Punjab,28581,Fatehgarh Sahib,920,Rape
+Northern,Punjab,28581,Fazilka,877,Rape
+Northern,Punjab,28581,Ferozepur,1300,Riots
+Northern,Punjab,28581,G. R. P.,372,Riots
+Northern,Punjab,28581,Gurdaspur,781,Robbery
+Northern,Punjab,28581,Hoshiarpur,1637,Robbery
+Northern,Punjab,28581,Jalandhar Rural,1154,Theft
+Northern,Punjab,28581,Kapurthala,1105,Theft
+Northern,Punjab,28581,Khanna,1132,Dacoity
+Northern,Punjab,28581,Ludhiana Rural,1081,Dacoity
+Northern,Punjab,28581,Mansa,793,Dacoity
+Northern,Punjab,28581,Moga,1172,Dacoity
+Northern,Punjab,28581,Muktsar,781,Deaths due to negligent driving/act
+Northern,Punjab,28581,Pathankot,582,Deaths due to negligent driving/act
+Northern,Punjab,28581,Patiala,2774,Deaths due to negligent driving/act
+Northern,Punjab,28581,Ropar,1122,Deaths due to negligent driving/act
+Northern,Punjab,28581,Sangrur,1935,Dowry Deaths
+Northern,Punjab,28581,SAS Nagar,2408,Dowry Deaths
+Northern,Punjab,28581,SBS Nagar,659,Dowry Deaths
+Northern,Punjab,28581,Tarn Taran,1171,Dowry Deaths
+Northern,Rajasthan,71963,Ajmer,9197,Grievous Hurt
+Northern,Rajasthan,71963,Alwar,12742,Grievous Hurt
+Northern,Rajasthan,71963,Banswara,2789,Grievous Hurt
+Northern,Rajasthan,71963,Baran,4515,Grievous Hurt
+Northern,Rajasthan,71963,Barmer,4388,Hurt
+Northern,Rajasthan,71963,Bharatpur,10231,Hurt
+Northern,Rajasthan,71963,Bhilwara,7353,Hurt
+Northern,Rajasthan,71963,Bikaner,5441,Hurt
+Northern,Rajasthan,71963,Bundi,3823,Incidence of Rash Driving
+Northern,Rajasthan,71963,Chittorgarh,5435,Incidence of Rash Driving
+Northern,Rajasthan,71963,Churu,3847,Incidence of Rash Driving
+Northern,Rajasthan,71963,Dausa,5584,Incidence of Rash Driving
+Northern,Rajasthan,71963,Dholpur,4395,Kidnapping & Abduction_Total
+Northern,Rajasthan,71963,Dungarpur,2678,Kidnapping & Abduction_Total
+Northern,Rajasthan,71963,G.R.P.Ajmer,1313,Kidnapping & Abduction_Total
+Northern,Rajasthan,71963,G.R.P.Jodhpur,198,Kidnapping & Abduction_Total
+Northern,Rajasthan,71963,Ganganagar,6929,Murder
+Northern,Rajasthan,71963,Hanumangarh,5021,Murder
+Northern,Rajasthan,71963,Jaipur East,8759,Murder
+Northern,Rajasthan,71963,Jaipur North,4120,Murder
+Northern,Rajasthan,71963,Jaipur Rural,6625,Offences against State
+Northern,Rajasthan,71963,Jaipur South,5953,Offences against State
+Northern,Rajasthan,71963,Jaipur West,7238,Offences against State
+Northern,Rajasthan,71963,Jaisalmer,1478,Offences against State
+Northern,Rajasthan,71963,Jalore,2971,Other IPC crimes
+Northern,Rajasthan,71963,Jhalawar,4666,Other IPC crimes
+Northern,Rajasthan,71963,Jhunjhunu,5277,Other IPC crimes
+Northern,Rajasthan,71963,Jodhpur East,2952,Other IPC crimes
+Northern,Rajasthan,71963,Jodhpur Rural,2693,Rape
+Northern,Rajasthan,71963,Jodhpur West,3281,Rape
+Northern,Rajasthan,71963,Karauli,4612,Rape
+Northern,Rajasthan,71963,Kota City,5248,Rape
+Northern,Rajasthan,71963,Kota Rural,2557,Riots
+Northern,Rajasthan,71963,Nagaur,5743,Riots
+Northern,Rajasthan,71963,Pali,6373,Riots
+Northern,Rajasthan,71963,Praapgarh,3124,Riots
+Northern,Rajasthan,71963,Rajsamand,2790,Robbery
+Northern,Rajasthan,71963,Sawai Madhopur,4212,Robbery
+Northern,Rajasthan,71963,Sikar,6994,Robbery
+Northern,Rajasthan,71963,Sirohi,2342,Robbery
+Northern,Rajasthan,71963,Tonk,4663,Theft
+Northern,Rajasthan,71963,Udaipur,9868,Theft
+Northeastern,Sikkim,631,CID,7,Theft
+Northeastern,Sikkim,631,East,589,Theft
+Northeastern,Sikkim,631,North,52,Dacoity
+Northeastern,Sikkim,631,South,290,Dacoity
+Northeastern,Sikkim,631,West,127,Dacoity
+Southern,Tamil Nadu,73640,Ariyalur,1615,Dacoity
+Southern,Tamil Nadu,73640,Chennai,16861,Deaths due to negligent driving/act
+Southern,Tamil Nadu,73640,Coimbatore,4996,Deaths due to negligent driving/act
+Southern,Tamil Nadu,73640,Coimbatore City,4281,Deaths due to negligent driving/act
+Southern,Tamil Nadu,73640,Cuddalore,9442,Deaths due to negligent driving/act
+Southern,Tamil Nadu,73640,Cyber Cell,3,Dowry Deaths
+Southern,Tamil Nadu,73640,Dharmapuri,4354,Dowry Deaths
+Southern,Tamil Nadu,73640,Dindigul,6250,Dowry Deaths
+Southern,Tamil Nadu,73640,Erode,4370,Dowry Deaths
+Southern,Tamil Nadu,73640,Kanchipuram,8066,Grievous Hurt
+Southern,Tamil Nadu,73640,Kanyakumari,4041,Grievous Hurt
+Southern,Tamil Nadu,73640,Karur,2241,Grievous Hurt
+Southern,Tamil Nadu,73640,Krishnagiri,5095,Grievous Hurt
+Southern,Tamil Nadu,73640,Madurai,8212,Hurt
+Southern,Tamil Nadu,73640,Madurai City,3226,Hurt
+Southern,Tamil Nadu,73640,Nagapattinam,4386,Hurt
+Southern,Tamil Nadu,73640,Namakkal,4003,Hurt
+Southern,Tamil Nadu,73640,Nilgiris,1199,Incidence of Rash Driving
+Southern,Tamil Nadu,73640,Other Units,0,Incidence of Rash Driving
+Southern,Tamil Nadu,73640,Perambalur,1770,Incidence of Rash Driving
+Southern,Tamil Nadu,73640,Pudukottai,3720,Incidence of Rash Driving
+Southern,Tamil Nadu,73640,Railway Chennai,637,Kidnapping & Abduction_Total
+Southern,Tamil Nadu,73640,Railway Trichy,229,Kidnapping & Abduction_Total
+Southern,Tamil Nadu,73640,Ramnathapuram,3819,Kidnapping & Abduction_Total
+Southern,Tamil Nadu,73640,Salem,4696,Kidnapping & Abduction_Total
+Southern,Tamil Nadu,73640,Salem City,4504,Murder
+Southern,Tamil Nadu,73640,Sivagangai,3738,Murder
+Southern,Tamil Nadu,73640,Thanjavur,6225,Murder
+Southern,Tamil Nadu,73640,Theni,4554,Murder
+Southern,Tamil Nadu,73640,Thirunelveli,8490,Offences against State
+Southern,Tamil Nadu,73640,Thirunelveli City,1623,Offences against State
+Southern,Tamil Nadu,73640,Thiruvallur,4037,Offences against State
+Southern,Tamil Nadu,73640,Thiruvannamalai,4411,Offences against State
+Southern,Tamil Nadu,73640,Thiruvarur,4041,Other IPC crimes
+Southern,Tamil Nadu,73640,Thoothugudi,5344,Other IPC crimes
+Southern,Tamil Nadu,73640,Tiruppur,4049,Other IPC crimes
+Southern,Tamil Nadu,73640,Tiruppur City,2490,Other IPC crimes
+Southern,Tamil Nadu,73640,Trichy,4688,Rape
+Southern,Tamil Nadu,73640,Trichy City,3074,Rape
+Southern,Tamil Nadu,73640,Vellore,10492,Rape
+Southern,Tamil Nadu,73640,Villupuram,9643,Rape
+Southern,Tamil Nadu,73640,Virudhunagar,4285,Riots
+Southern,Telangana,35878,Adilabad,6036,Riots
+Southern,Telangana,35878,Cyberabad,19311,Riots
+Southern,Telangana,35878,Hyderabad City,18940,Riots
+Southern,Telangana,35878,Karimnagar,9382,Robbery
+Southern,Telangana,35878,Khammam,11022,Robbery
+Southern,Telangana,35878,Mahaboob Nagar,7533,Robbery
+Southern,Telangana,35878,Medak,6931,Robbery
+Southern,Telangana,35878,Nalgonda,9254,Theft
+Southern,Telangana,35878,Nizamabad,7053,Theft
+Southern,Telangana,35878,Ranga Reddy,2309,Theft
+Southern,Telangana,35878,Secunderabad Railway,860,Theft
+Southern,Telangana,35878,Warangal,4407,Dacoity
+Southern,Telangana,35878,Warangal Urban,3792,Dacoity
+Northeastern,Tripura,3794,Dhalai,363,Dacoity
+Northeastern,Tripura,3794,G. R. P.,9,Dacoity
+Northeastern,Tripura,3794,Gomati,825,Deaths due to negligent driving/act
+Northeastern,Tripura,3794,Kowai,338,Deaths due to negligent driving/act
+Northeastern,Tripura,3794,North,510,Deaths due to negligent driving/act
+Northeastern,Tripura,3794,Sipahijala,725,Deaths due to negligent driving/act
+Northeastern,Tripura,3794,South,678,Dowry Deaths
+Northeastern,Tripura,3794,Unakoti,401,Dowry Deaths
+Northeastern,Tripura,3794,West,1650,Dowry Deaths
+Northern,Uttar Pradesh,209577,Agra,9518,Dowry Deaths
+Northern,Uttar Pradesh,209577,Aligarh,8793,Grievous Hurt
+Northern,Uttar Pradesh,209577,Allahabad,9909,Grievous Hurt
+Northern,Uttar Pradesh,209577,Ambedkar Nagar,1323,Grievous Hurt
+Northern,Uttar Pradesh,209577,Amethi,1522,Grievous Hurt
+Northern,Uttar Pradesh,209577,Amroha,2826,Hurt
+Northern,Uttar Pradesh,209577,Auraiya,1789,Hurt
+Northern,Uttar Pradesh,209577,Azamgarh,2881,Hurt
+Northern,Uttar Pradesh,209577,Badaun,2919,Hurt
+Northern,Uttar Pradesh,209577,Baghpat,1844,Incidence of Rash Driving
+Northern,Uttar Pradesh,209577,Bahraich,2249,Incidence of Rash Driving
+Northern,Uttar Pradesh,209577,Ballia,1674,Incidence of Rash Driving
+Northern,Uttar Pradesh,209577,Balrampur,549,Incidence of Rash Driving
+Northern,Uttar Pradesh,209577,Banda,1948,Kidnapping & Abduction_Total
+Northern,Uttar Pradesh,209577,Barabanki,2471,Kidnapping & Abduction_Total
+Northern,Uttar Pradesh,209577,Bareilly,6589,Kidnapping & Abduction_Total
+Northern,Uttar Pradesh,209577,Basti,752,Kidnapping & Abduction_Total
+Northern,Uttar Pradesh,209577,Bijnor,3475,Murder
+Northern,Uttar Pradesh,209577,Bulandshahar,4775,Murder
+Northern,Uttar Pradesh,209577,Chandoli,1366,Murder
+Northern,Uttar Pradesh,209577,Chitrakoot,988,Murder
+Northern,Uttar Pradesh,209577,Deoria,1645,Offences against State
+Northern,Uttar Pradesh,209577,Etah,2783,Offences against State
+Northern,Uttar Pradesh,209577,Etawah,2721,Offences against State
+Northern,Uttar Pradesh,209577,Faizabad,2426,Offences against State
+Northern,Uttar Pradesh,209577,Fatehgarh,2151,Other IPC crimes
+Northern,Uttar Pradesh,209577,Fatehpur,2559,Other IPC crimes
+Northern,Uttar Pradesh,209577,Firozabad,4222,Other IPC crimes
+Northern,Uttar Pradesh,209577,G. R. P.,5158,Other IPC crimes
+Northern,Uttar Pradesh,209577,Gautambudh Nagar,8521,Rape
+Northern,Uttar Pradesh,209577,Ghaziabad,10088,Rape
+Northern,Uttar Pradesh,209577,Ghazipur,1945,Rape
+Northern,Uttar Pradesh,209577,Gonda,2021,Rape
+Northern,Uttar Pradesh,209577,Gorakhpur,4537,Riots
+Northern,Uttar Pradesh,209577,Hamirpur,981,Riots
+Northern,Uttar Pradesh,209577,Hapur,1841,Riots
+Northern,Uttar Pradesh,209577,Hardoi,2981,Riots
+Northern,Uttar Pradesh,209577,Hathras,2280,Robbery
+Northern,Uttar Pradesh,209577,Jalaun,856,Robbery
+Northern,Uttar Pradesh,209577,Jaunpur,2352,Robbery
+Northern,Uttar Pradesh,209577,Jhansi,1985,Robbery
+Northern,Uttar Pradesh,209577,Kannauj,2103,Theft
+Northern,Uttar Pradesh,209577,Kanpur Dehat,2111,Theft
+Northern,Uttar Pradesh,209577,Kanpur Nagar,8641,Theft
+Northern,Uttar Pradesh,209577,Kasganj,1232,Theft
+Northern,Uttar Pradesh,209577,Kaushambi,1945,Dacoity
+Northern,Uttar Pradesh,209577,Khiri,3465,Dacoity
+Northern,Uttar Pradesh,209577,Kushi Nagar,1757,Dacoity
+Northern,Uttar Pradesh,209577,Lalitpur,962,Dacoity
+Northern,Uttar Pradesh,209577,Lucknow,15107,Dacoity
+Northern,Uttar Pradesh,209577,Maharajganj,1162,Dacoity
+Northern,Uttar Pradesh,209577,Mahoba,814,Dacoity
+Northern,Uttar Pradesh,209577,Mainpuri,2469,Dacoity
+Northern,Uttar Pradesh,209577,Mathura,4779,Dacoity
+Northern,Uttar Pradesh,209577,Mau,1476,Deaths due to negligent driving/act
+Northern,Uttar Pradesh,209577,Meerut,10073,Deaths due to negligent driving/act
+Northern,Uttar Pradesh,209577,Mirzapur,780,Deaths due to negligent driving/act
+Northern,Uttar Pradesh,209577,Moradabad,4026,Deaths due to negligent driving/act
+Northern,Uttar Pradesh,209577,Muzaffarnagar,3952,Deaths due to negligent driving/act
+Northern,Uttar Pradesh,209577,Pilibhit,2916,Deaths due to negligent driving/act
+Northern,Uttar Pradesh,209577,Pratapgarh,4128,Deaths due to negligent driving/act
+Northern,Uttar Pradesh,209577,Raibareilly,2053,Deaths due to negligent driving/act
+Northern,Uttar Pradesh,209577,Rampur,1950,Deaths due to negligent driving/act
+Northern,Uttar Pradesh,209577,Saharanpur,4184,Dowry Deaths
+Northern,Uttar Pradesh,209577,Sambhal,2087,Dowry Deaths
+Northern,Uttar Pradesh,209577,Sant Kabirnagar,727,Dowry Deaths
+Northern,Uttar Pradesh,209577,Shahjahanpur,3106,Dowry Deaths
+Northern,Uttar Pradesh,209577,Shamli,1674,Dowry Deaths
+Northern,Uttar Pradesh,209577,Shrawasti,801,Dowry Deaths
+Northern,Uttar Pradesh,209577,Sidharthnagar,773,Dowry Deaths
+Northern,Uttar Pradesh,209577,Sitapur,3923,Dowry Deaths
+Northern,Uttar Pradesh,209577,Sonbhadra,753,Dowry Deaths
+Northern,Uttar Pradesh,209577,St.Ravidasnagar,574,Grievous Hurt
+Northern,Uttar Pradesh,209577,Sultanpur,2421,Grievous Hurt
+Northern,Uttar Pradesh,209577,Unnao,3438,Grievous Hurt
+Northern,Uttar Pradesh,209577,Varanasi,3900,Grievous Hurt
+Northern,Uttarakhand,10487,Almora,139,Grievous Hurt
+Northern,Uttarakhand,10487,Bageshwar,77,Grievous Hurt
+Northern,Uttarakhand,10487,Chamoli,126,Grievous Hurt
+Northern,Uttarakhand,10487,Champawat,96,Grievous Hurt
+Northern,Uttarakhand,10487,Dehradun,2178,Grievous Hurt
+Northern,Uttarakhand,10487,Haridwar,2505,Hurt
+Northern,Uttarakhand,10487,Nainital,1095,Hurt
+Northern,Uttarakhand,10487,Pauri Garhwal,278,Hurt
+Northern,Uttarakhand,10487,Pithoragarh,117,Hurt
+Northern,Uttarakhand,10487,Rudra Prayag,97,Hurt
+Northern,Uttarakhand,10487,Tehri Garhwal,122,Hurt
+Northern,Uttarakhand,10487,Udhamsingh Nagar,2234,Hurt
+Northern,Uttarakhand,10487,Uttarkashi,92,Hurt
+Eastern,West Bengal,93558,Alipurduar,3355,Hurt
+Eastern,West Bengal,93558,Asansol-Durgapur PC,4738,Incidence of Rash Driving
+Eastern,West Bengal,93558,Bankura,3049,Incidence of Rash Driving
+Eastern,West Bengal,93558,Barrackpur PC,8087,Incidence of Rash Driving
+Eastern,West Bengal,93558,Bidhannagar PC,3014,Incidence of Rash Driving
+Eastern,West Bengal,93558,Birbhum,3749,Incidence of Rash Driving
+Eastern,West Bengal,93558,Burdwan,7694,Incidence of Rash Driving
+Eastern,West Bengal,93558,Coochbehar,5142,Incidence of Rash Driving
+Eastern,West Bengal,93558,Dakshin Dinajpur,2372,Incidence of Rash Driving
+Eastern,West Bengal,93558,Darjeeling,2418,Incidence of Rash Driving
+Eastern,West Bengal,93558,Hooghly,8858,Kidnapping & Abduction_Total
+Eastern,West Bengal,93558,Howrah G. R. P.,5259,Kidnapping & Abduction_Total
+Eastern,West Bengal,93558,Howrah PC,6273,Kidnapping & Abduction_Total
+Eastern,West Bengal,93558,Howrah Rural,445,Kidnapping & Abduction_Total
+Eastern,West Bengal,93558,Jalpaiguri,3832,Kidnapping & Abduction_Total
+Eastern,West Bengal,93558,Jhargram Police District,803,Kidnapping & Abduction_Total
+Eastern,West Bengal,93558,Kharagpur G. R. P.,213,Kidnapping & Abduction_Total
+Eastern,West Bengal,93558,Kolkata,26668,Kidnapping & Abduction_Total
+Eastern,West Bengal,93558,Malda,6432,Kidnapping & Abduction_Total
+Eastern,West Bengal,93558,Murshidabad,14762,Murder
+Eastern,West Bengal,93558,Nadia,11790,Murder
+Eastern,West Bengal,93558,North 24 Parganas,14867,Murder
+Eastern,West Bengal,93558,Paschim Medinipur,5791,Murder
+Eastern,West Bengal,93558,Purab Medinipur,6778,Murder
+Eastern,West Bengal,93558,Purulia,1800,Murder
+Eastern,West Bengal,93558,Sealdah G. R. P.,655,Murder
+Eastern,West Bengal,93558,Siliguri G. R. P.,220,Murder
+Eastern,West Bengal,93558,Siliguri PC,4623,Murder
+Eastern,West Bengal,93558,South 24 Parganas,21049,Offences against State
+Eastern,West Bengal,93558,Uttar Dinajpur,8312,Offences against State
